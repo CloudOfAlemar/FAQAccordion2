@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-u33LZ58o6W)
+- Live Site URL: [Live Site URL](https://cloudofalemar.github.io/FAQAccordion2/)
 
 ## My process
 
